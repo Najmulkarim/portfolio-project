@@ -1,0 +1,21 @@
+h1{
+    font-size: 50px;
+
+}
+.colour_lighter{
+    color: darkorange;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.hale-div{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 5%;
+}
+.hale-div img{
+    width: 100%;
+}
